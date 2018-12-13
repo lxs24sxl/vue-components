@@ -5,7 +5,7 @@
 - common-wrapper 公共头部
 - modal 弹出层盒子
 - xs-date-picker 日期选择器
-
+- fixed-header 滚动固定头部菜单组件
 
 #### 日期选择器展示图
 ![移动端展示的图片](https://github.com/lxs24sxl/readme_add_pic/raw/master/images/vue-components/date-picker.png)
